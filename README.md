@@ -39,3 +39,19 @@ STAGING TABLES
 SILVER LAYER
    ↓
 GOLD LAYER
+```
+
+---
+
+## 📌 Author
+
+**Divyansh Patel**
+Data Engineer | SQL | Databricks | Analytics
+
+🔗 LinkedIn: https://www.linkedin.com/in/divyansh-patel-dataanalyst/
+- divyanshpatel751@gmail.com
+
+---
+
+⭐ If you find this project useful, feel free to star the repository!
+
